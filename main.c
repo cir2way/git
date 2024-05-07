@@ -1,3 +1,5 @@
+A
+B
+B
 Dstdio
 #include <>
-ii
